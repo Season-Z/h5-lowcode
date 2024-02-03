@@ -81,7 +81,7 @@
     "react-text-loop": "^2.3.0",
     "redux-undo": "^1.0.1",
     "socket.io-client": "^2.3.0",
-    "umi": "^3.5.13",
+    "umi": "^3.5.41",
     "xlsx": "^0.16.7",
     "yh-react-popover": "^0.3.0",
     "yorkie": "^2.0.0",
