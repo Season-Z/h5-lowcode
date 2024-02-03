@@ -55,7 +55,7 @@
     "@ant-design/icons": "^4.2.1",
     "@umijs/plugin-esbuild": "^1.0.1",
     "@umijs/plugin-sass": "^1.1.1",
-    "antd": "^4.7.0",
+    "antd": "^4.24.15",
     "antd-img-crop": "^3.10.0",
     "axios": "^0.19.2",
     "braft-editor": "^2.3.9",
