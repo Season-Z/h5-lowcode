@@ -26,7 +26,7 @@
     ]
   },
   "dependencies": {
-    "@ant-design/pro-layout": "^6.5.0",
+    "@ant-design/pro-layout": "^7.20.1",
     "@ant-design/pro-table": "^2.51.2",
     "lodash": "^4.17.21",
     "react": "17.x",
