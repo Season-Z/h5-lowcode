@@ -80,7 +80,7 @@
     "react-hotkeys-hook": "^2.3.1",
     "react-text-loop": "^2.3.0",
     "redux-undo": "^1.0.1",
-    "socket.io-client": "^2.3.0",
+    "socket.io-client": "^4.8.0",
     "umi": "^3.5.13",
     "xlsx": "^0.16.7",
     "yh-react-popover": "^0.3.0",
